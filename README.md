@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshuana-k2
 - 👩‍🔬 I’m interested in becoming a biomedical engineer
-- 🐍 I’m currently learning more about python progreamming 
+- 🐍 I’m currently learning more about python programming 
 - 💞️ I’m looking to collaborate on any fun project
 - 📫 How to reach me kjoshuana@gmail.com
 
